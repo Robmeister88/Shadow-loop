@@ -1,0 +1,7 @@
+cd path/to/ShadowLoop_FinalGame  # navigate to the unzipped folder
+git init
+git add .
+git commit -m "Initial commit of Shadow Loop"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/shadow-loop.git
+git push -u origin main
